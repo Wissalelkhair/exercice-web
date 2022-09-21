@@ -1,0 +1,29 @@
+.photo {
+    transition: 1s;
+    width: 10%;
+    height: 10%;
+    margin: auto;
+    display: block;
+}
+
+.photo:hover {
+    transform: scale(2);
+}
+
+body{
+    color: blue;
+    background-color: pink;
+}
+
+h2
+{
+ background-color: pink;
+ color:yellow;
+ .container(flex-directin:row;)
+} 
+
+li
+{
+display:flex;
+color;
+}
